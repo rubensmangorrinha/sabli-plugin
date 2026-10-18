@@ -3,11 +3,26 @@
   "displayName": "Sabli",
   "version": "1.1.0",
   "description": "Ask AI minds of real, named experts (product, pricing, growth, design and more) without leaving Claude Code. Answers, deliverables like PRDs, and critiques, with the expert's name on them.",
-  "author": { "name": "Sabli", "email": "hello@sabli.app", "url": "https://sabli.app" },
+  "author": {
+    "name": "Sabli",
+    "email": "hello@sabli.app",
+    "url": "https://sabli.app"
+  },
   "homepage": "https://sabli.app/connect",
+  "privacyPolicyUrl": "https://sabli.app/privacy",
   "license": "Proprietary",
-  "keywords": ["experts", "product", "pricing", "growth", "design", "mcp"],
+  "keywords": [
+    "experts",
+    "product",
+    "pricing",
+    "growth",
+    "design",
+    "mcp"
+  ],
   "mcpServers": {
-    "sabli": { "type": "http", "url": "https://sabli.app/api/mcp" }
+    "sabli": {
+      "type": "http",
+      "url": "https://sabli.app/api/mcp"
+    }
   }
 }

@@ -9,7 +9,11 @@
     "url": "https://sabli.app"
   },
   "homepage": "https://sabli.app/connect",
+  "repository": "https://github.com/rubensmangorrinha/sabli-plugin",
+  "documentationUrl": "https://sabli.app/connect",
+  "supportUrl": "mailto:hello@sabli.app",
   "privacyPolicyUrl": "https://sabli.app/privacy",
+  "termsOfServiceUrl": "https://sabli.app/licensing",
   "license": "Proprietary",
   "keywords": [
     "experts",

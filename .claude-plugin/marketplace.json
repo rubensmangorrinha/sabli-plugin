@@ -1,0 +1,18 @@
+{
+  "name": "sabli",
+  "description": "AI minds of real experts, in Claude Code.",
+  "owner": {
+    "name": "Sabli",
+    "email": "hello@sabli.app",
+    "url": "https://sabli.app"
+  },
+  "plugins": [
+    {
+      "name": "sabli",
+      "displayName": "Sabli",
+      "description": "Ask AI minds of real, named experts (product, pricing, growth, design and more) without leaving Claude Code. Answers, deliverables like PRDs, and critiques, with the expert's name on them.",
+      "category": "productivity",
+      "source": "./"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # Sabli: ask real experts' AI minds inside Claude Code, Cursor and any MCP client
 
-Expert developer and product advice without leaving your editor. Ask AI minds of real, named experts (a principal engineer's architecture review, a product lead's take on a spec, pricing, growth and design critiques) from Claude Code, Cursor, VS Code or any MCP client: answers, deliverables and critiques in their method and judgment, with the expert's name on them. Each mind is built with the expert and licensed from them; answers come from an AI, not from the expert in person.
+Ask AI minds of real, named experts from Claude Code, Cursor, VS Code or any MCP client, without leaving your editor: a principal engineer's architecture review, a product lead's take on your spec, a design critique, or a full deliverable (PRD, launch plan, scaling plan), in their method and judgment. The expert's name is on every answer. Each mind is built with the expert and licensed from them; answers come from an AI, not from the expert in person.
 
 This repository is the Sabli plugin for Claude Code: the connection to Sabli (`https://sabli.app/api/mcp`, sign in with your Sabli account) and six skills. Cursor, VS Code, Codex and Gemini CLI use the same MCP server: one-click setup at [sabli.app/integrations](https://sabli.app/integrations).
 

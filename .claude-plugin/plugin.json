@@ -2,7 +2,7 @@
   "name": "sabli",
   "displayName": "Sabli",
   "version": "1.1.0",
-  "description": "Ask AI minds of real, named experts (product, pricing, growth, design and more) without leaving Claude Code. Answers, deliverables like PRDs, and critiques, with the expert's name on them.",
+  "description": "Expert developer and product advice without leaving Claude Code: ask AI minds of real, named experts (engineering, product, pricing, growth, design). Answers, deliverables like architecture reviews and PRDs, and critiques, with the expert's name on them.",
   "author": {
     "name": "Sabli",
     "email": "hello@sabli.app",
@@ -21,6 +21,11 @@
     "pricing",
     "growth",
     "design",
+    "engineering",
+    "architecture-review",
+    "code-review",
+    "expert-advice",
+    "cursor",
     "mcp"
   ],
   "mcpServers": {

@@ -1,7 +1,7 @@
 {
   "name": "sabli",
   "displayName": "Sabli",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Ask AI minds of real, named experts (engineering, product, design, growth and more) without leaving Claude Code. Answers, deliverables like architecture reviews and PRDs, and critiques, with the expert's name on them.",
   "author": {
     "name": "Sabli",
@@ -9,9 +9,10 @@
     "url": "https://sabli.app"
   },
   "homepage": "https://sabli.app/connect",
+  "icon": "./assets/logo.png",
   "repository": "https://github.com/rubensmangorrinha/sabli-plugin",
   "documentationUrl": "https://sabli.app/connect",
-  "supportUrl": "mailto:hello@sabli.app",
+  "supportUrl": "https://sabli.app/contact",
   "privacyPolicyUrl": "https://sabli.app/privacy",
   "termsOfServiceUrl": "https://sabli.app/licensing",
   "license": "Proprietary",
